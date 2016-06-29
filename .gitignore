@@ -1,0 +1,11 @@
+target/*
+/target/
+dist/*
+/dist/
+build/*
+/build/
+build.number
+.metadata tar.gz
+.classpath
+.project
+*/.settings/
